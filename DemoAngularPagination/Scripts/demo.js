@@ -1,4 +1,4 @@
-var demoApp = angular.module('demoApp', ['ngRoute', 'ngResource']);
+var demoApp = angular.module('demoApp', ['ngResource']);
 
 /*************************************************************************/
 // RESOURCES
