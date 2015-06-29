@@ -40,3 +40,9 @@ input[type="checkbox"].input-validation-error {
 .validation-summary-valid {
     display: none;
 }
+
+.pagingInfo{ 
+  display: inline-block;  
+  vertical-align: middle;
+  margin-top: -60px;
+}
